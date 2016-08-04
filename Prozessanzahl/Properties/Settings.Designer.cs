@@ -8,22 +8,67 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Prozessanzahl.Properties
-{
-
-
+namespace Prozessanzahl.Properties {
+    
+    
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
-    {
-
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "12.0.0.0")]
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
-        public static Settings Default
-        {
-            get
-            {
+        
+        public static Settings Default {
+            get {
                 return defaultInstance;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Das Programm hat seine Maximalausführungen erreicht. Schließen Sie Programme des " +
+            "selben Prozesses um fortzufahren.")]
+        public string errorMessage {
+            get {
+                return ((string)(this["errorMessage"]));
+            }
+            set {
+                this["errorMessage"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("2000")]
+        public int checkInterval {
+            get {
+                return ((int)(this["checkInterval"]));
+            }
+            set {
+                this["checkInterval"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("notepad")]
+        public string processName {
+            get {
+                return ((string)(this["processName"]));
+            }
+            set {
+                this["processName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
+        public int maximaleAusfuehrungen {
+            get {
+                return ((int)(this["maximaleAusfuehrungen"]));
+            }
+            set {
+                this["maximaleAusfuehrungen"] = value;
             }
         }
     }

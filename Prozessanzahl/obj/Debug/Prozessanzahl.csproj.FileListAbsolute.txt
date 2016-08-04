@@ -4,3 +4,11 @@ D:\Visoma Projekte\Resources\scripts & tools\prozessmanager\Prozessanzahl\Prozes
 D:\Visoma Projekte\Resources\scripts & tools\prozessmanager\Prozessanzahl\Prozessanzahl\obj\Debug\Prozessanzahl.csproj.GenerateResource.Cache
 D:\Visoma Projekte\Resources\scripts & tools\prozessmanager\Prozessanzahl\Prozessanzahl\obj\Debug\Prozessanzahl.exe
 D:\Visoma Projekte\Resources\scripts & tools\prozessmanager\Prozessanzahl\Prozessanzahl\obj\Debug\Prozessanzahl.pdb
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.exe
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.pdb
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Prozessanzahl.exe.config
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Prozessanzahl.exe
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Prozessanzahl.pdb
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csprojResolveAssemblyReference.cache
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.Properties.Resources.resources
+C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csproj.GenerateResource.Cache

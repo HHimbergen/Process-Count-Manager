@@ -1,7 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Prozessanzahl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="errorMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Das Programm hat seine Maximalausführungen erreicht. Schließen Sie Programme des selben Prozesses um fortzufahren.</Value>
+    </Setting>
+    <Setting Name="checkInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="processName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">notepad</Value>
+    </Setting>
+    <Setting Name="maximaleAusfuehrungen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
