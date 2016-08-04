@@ -1,13 +1,11 @@
-# Prozess-Anzahl-Manager
-Das Programm prüft ob ein angegebener Prozess öfters als erlaubt läuft und schließt diesen anhand der letzten Ausführung.
-Diese Software kann z.B. genutzt werden, wenn man aus Lizenzgründen nur ein Programm gleichzeitig aufhaben darf.
+# Process-Count-Manager
 
-Die Software ist Quelloffen und kann auch kommerziell genutzt werden.
+A tool to managing a maximum count of processes at the same time.
 
-# Installation des Prozess-Anzahl-Managers
+# Setup this application
 
-1. Source-Code oder Release herunterladen
-2. Konfiguration über Prozessanzahl.exe.config vornehmen
-3. Programmordner Binary/Debug irgendwo ablegen
-4. Verküpfung zur .exe Erstellen und in den Autostart legen
-5. System neustarten oder Verknüpfung starten
+1. Get the source code
+2. Go into the "bin/Release" folder
+3. Edit the "*.conf"-File to your belongs
+4. Move the Release-Folder to a persistent location like Program Files
+5. Create Symbol-Link / Application-Link and move it into your autostart
