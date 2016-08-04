@@ -1,6 +1,6 @@
-﻿namespace Prozessanzahl
+﻿namespace Processcounter
 {
-    partial class Prozessmanager
+    partial class Processcounter
     {
         /// <summary>
         /// Required designer variable.

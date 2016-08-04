@@ -12,3 +12,11 @@ C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\b
 C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csprojResolveAssemblyReference.cache
 C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.Properties.Resources.resources
 C:\Users\dennis.heinrich\Documents\GitHub\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Processcount-Manager.exe.config
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Processcounter.Properties.Resources.resources
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Processcount-Manager.exe
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\bin\Debug\Processcount-Manager.pdb
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Processcount-Manager.exe
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Processcount-Manager.pdb
+C:\Users\Dennis\Desktop\GitHub Projekte\Prozess-Anzahl-Manager\Prozessanzahl\obj\Debug\Prozessanzahl.csprojResolveAssemblyReference.cache

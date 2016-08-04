@@ -8,11 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Prozessanzahl.Properties {
+namespace Processcounter.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "12.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,8 +25,7 @@ namespace Prozessanzahl.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Das Programm hat seine Maximalausführungen erreicht. Schließen Sie Programme des " +
-            "selben Prozesses um fortzufahren.")]
+        [global::System.Configuration.DefaultSettingValueAttribute("The process reached the maximum of allowed processes")]
         public string errorMessage {
             get {
                 return ((string)(this["errorMessage"]));
@@ -63,12 +62,24 @@ namespace Prozessanzahl.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("2")]
-        public int maximaleAusfuehrungen {
+        public int maxProcesses {
             get {
-                return ((int)(this["maximaleAusfuehrungen"]));
+                return ((int)(this["maxProcesses"]));
             }
             set {
-                this["maximaleAusfuehrungen"] = value;
+                this["maxProcesses"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool allowZeroProcess {
+            get {
+                return ((bool)(this["allowZeroProcess"]));
+            }
+            set {
+                this["allowZeroProcess"] = value;
             }
         }
     }

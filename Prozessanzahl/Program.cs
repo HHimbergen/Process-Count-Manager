@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Prozessanzahl
+namespace Processcounter
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace Prozessanzahl
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            new Prozessmanager(args);
+            new Processcounter(args);
         }
     }
 }
